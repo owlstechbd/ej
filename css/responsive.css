@@ -1,0 +1,146 @@
+
+@media  screen and (max-width:1250px){
+    #head{
+        flex-direction: column;
+    }
+    .head-left{
+        padding: 50px 0;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .footer-logo p{
+        font-size: 16px;
+    }
+    .services-box{
+        height: auto;
+    }
+    .navbar-light .navbar-toggler{
+        color: #fff;
+    }
+
+    li.nav-item{
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .phone-link{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    .resources{
+        padding-left: 0;
+    }
+    div#navbarContent{
+        margin-bottom: 40px;
+    }
+    .head-left{
+        padding-top: 50px;
+    }
+}
+@media  screen and (max-width:900px){
+    
+    .head-left h1{
+        font-size: 26px;
+    }
+    #head {
+        display: flex;
+        align-items: center;
+        flex-flow: column;
+        padding-bottom: 70px;
+    }
+    .head-left {
+        width: 100%;
+        padding: 50px 15px;
+    }
+    .head-right {
+        width: 100%;
+    }
+    .head-right-logo {
+        display: none;
+    }
+    .mobile-img {
+        display: block;
+    }
+    .destop-img {
+        display: none;
+    }
+    .head-btn a {
+        font-size: 16px;
+        padding: 11px 25px;
+    }
+    .slide-image img {
+        margin-left: 30px;
+    }
+    .container {
+        max-width: 100%;
+    }
+    #about {
+        padding-top: 0px ;
+        padding-bottom: 70px ;
+    }
+    .about-box img {
+        margin-bottom: 30px;
+    }
+    .title h1 {
+        font-size: 32px;
+    }
+    .res-mar{
+        margin-top: 30px;
+    }
+    .footer-main {
+        padding: 30px 0;
+    }
+    .resources {
+        padding-left: 0px;
+    }
+    .reserved {
+        margin-top: 30px;
+        padding: 12px 0;
+    }
+    .reserved p {
+        font-size: 14px;
+    }
+    #about-us {
+        height: 350px;
+    }
+    .why-choose-box {
+        padding-left: 0px; 
+    }
+    .why-choose-box img {
+        margin-bottom: 30px;
+    }
+    .why-choose-box-btm {
+        width: 100%;
+    }
+    .eugene-box p {
+        padding-left: 0px;
+    }
+    .nav-btn {
+        display: none;
+    }
+    .why-choose-box-photo img {
+        width: 25px;
+        margin-right: 13px;
+    }
+    .why-choose-box h1 {
+        font-size: 36px;
+    }
+    .contact-btm {
+        margin-top: 70px;
+    }
+    #contact-info {
+        padding: 30px 0;
+    }
+
+
+
+}
+/* @media  screen and (max-width: 2000px){
+    .head-right-logo {
+        bottom: 137px;
+    }
+    .head-right-logo img {
+        width: 300px;
+        margin-left: -115px;
+    }
+}
+ */
